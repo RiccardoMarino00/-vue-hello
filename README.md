@@ -22,3 +22,5 @@ Vue utilizza una sintassi basata su html che consente di associare al DOM i dati
  - E' possibile anche invocare una funzione in una associazione ma saranno invocate ad ogni cambiamento del componente
  - Argomenti ----> alcune direttive possono avere un argomento indicato da due punti (:) dopo il nome della direttiva
  - Modificatori ----> sono suffissi speciali indicati da un punto (.), indicano che una direttiva deve essere associata in qualche modo speciale.
+
+ - Dynamic arguments da approfondire  ????
